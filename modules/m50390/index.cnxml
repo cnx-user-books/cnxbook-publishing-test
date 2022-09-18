@@ -1,0 +1,15 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Link Test 7-24</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m50390</md:content-id>
+  <md:title>Link Test 7-24</md:title>
+  <md:abstract>This is a test of a summary publishing.</md:abstract>
+  <md:uuid>2d674749-3af6-4d21-83c5-d9a15c6672ba</md:uuid>
+</metadata>
+
+<content>
+  <para id="delete_me">While the fundamental signal used in electrical engineering is the sinusoid, it can be expressed mathematically in terms of an even more fundamental signal: the complex exponential. Representing sinusoids in terms of complex exponentials is not a mathematical oddity. Fluency with complex numbers and rational functions of complex variables is a critical skill all engineers master. Understanding information and power system designs and developing new systems all hinge on using complex numbers. In short, they are critical to modern electrical engineering, a realization made over a century ago.
+  </para><para id="eip-573"><link url="#terp-module42quiz1">Module 42 Quiz 1</link></para><para id="eip-329">To multiply, the radius equals the product of the radii and the angle the sum of the angles. To divide, the radius equals the ratio of the radii and the angle the difference of the angles. When the original complex numbers are in Cartesian form, it's usually worth translating into polar form, then performing the multiplication or division (especially in the case of the latter). Addition and subtraction of polar forms amounts to converting to Cartesian form, performing the arithmetic operation, and converting back to polar form.</para></content>
+
+</document>
